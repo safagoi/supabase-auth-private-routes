@@ -8,14 +8,14 @@ Using [Supabase Auth](https://supabase.com/docs/guides/auth) the app provide a s
     - Login & SignUp page components which use Supabase functionalities
     - A protected Dashboard page component
     - React router functionalities
-    - Parcel to run the local development server and to build the aplication
+    - Parcel to run the local development server and build the aplication
     - SASS stylesheet language configured to use global variables, mixins and nested rules
     
  ## Running the development server :computer: 
  1. Clone the repo to your local machine.
 2.  Install the dependencies with `npm install` .
  3. Configure your supabase API keys like enviroment variables in a **.env** file in the root of the project.
- 4. Run the development server then with `npm start` .
+ 4. Run the development server with `npm start` .
 
 ## Build the project :hammer:
 You can build the parcel minified project using the script `npm build` and then upload to your server.
